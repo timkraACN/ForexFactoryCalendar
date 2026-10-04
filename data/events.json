@@ -1,0 +1,34 @@
+{
+ "9aac773947cd4b2ac6671113801b00d7e51b171d@ff-kalender": {
+  "title": "BOJ Gov Ueda Speaks",
+  "country": "JPY",
+  "date": "2026-10-06T02:35:00-04:00",
+  "impact": "High",
+  "forecast": "",
+  "previous": ""
+ },
+ "5ecafcd50525230c9c02aca6f56813dc9cd1ce6b@ff-kalender": {
+  "title": "FOMC Meeting Minutes",
+  "country": "USD",
+  "date": "2026-10-07T14:00:00-04:00",
+  "impact": "High",
+  "forecast": "",
+  "previous": ""
+ },
+ "dba5ae1082302c059c3a16e0956d336200f2cf71@ff-kalender": {
+  "title": "Employment Change",
+  "country": "CAD",
+  "date": "2026-10-09T08:30:00-04:00",
+  "impact": "High",
+  "forecast": "9.0K",
+  "previous": "-41.7K"
+ },
+ "4909cde532df810ebd40faed4043f0489f39e0fa@ff-kalender": {
+  "title": "Unemployment Rate",
+  "country": "CAD",
+  "date": "2026-10-09T08:30:00-04:00",
+  "impact": "High",
+  "forecast": "6.5%",
+  "previous": "6.4%"
+ }
+}
