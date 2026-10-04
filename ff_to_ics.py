@@ -19,8 +19,8 @@ FEED = "https://nfs.faireconomy.media/ff_calendar_thisweek.json"
 STATE = Path("data/events.json")
 OUT = Path("docs/forexfactory.ics")
 
-IMPACTS = {"High"}          # z.B. {"High", "Medium"}
-CURRENCIES = None           # z.B. {"USD", "EUR", "GBP"} – None = alle
+IMPACTS = {"High", "Medium"}
+CURRENCIES = {"USD", "EUR", "GBP", "JPY", "AUD", "CAD", "CHF", "NZD"}          
 EVENT_MINUTES = 15          # Dauer des Kalendereintrags
 ALARM_MINUTES = 10          # Erinnerung vorher (0 = keine)
 KEEP_DAYS = 90              # wie lange alte Termine im Kalender bleiben
