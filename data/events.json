@@ -30,5 +30,45 @@
   "impact": "High",
   "forecast": "6.5%",
   "previous": "6.4%"
+ },
+ "5293c97f1469065732d3a8df720dd3efe8a14af6@ff-kalender": {
+  "title": "ISM Services PMI",
+  "country": "USD",
+  "date": "2026-10-05T10:00:00-04:00",
+  "impact": "Medium",
+  "forecast": "55.1",
+  "previous": "55.4"
+ },
+ "b9a37f8ce701ee4d6a7bd9a6613135b3f378246a@ff-kalender": {
+  "title": "Ivey PMI",
+  "country": "CAD",
+  "date": "2026-10-06T10:00:00-04:00",
+  "impact": "Medium",
+  "forecast": "65.2",
+  "previous": "64.3"
+ },
+ "227f3a51896e4c2436ca9ebb903dd79c4bc4c6b4@ff-kalender": {
+  "title": "Unemployment Claims",
+  "country": "USD",
+  "date": "2026-10-08T08:30:00-04:00",
+  "impact": "Medium",
+  "forecast": "200K",
+  "previous": "197K"
+ },
+ "0430c6248969ac71d7637f4c12e0b0615c1fc69f@ff-kalender": {
+  "title": "Prelim UoM Consumer Sentiment",
+  "country": "USD",
+  "date": "2026-10-09T10:00:00-04:00",
+  "impact": "Medium",
+  "forecast": "47.6",
+  "previous": "47.8"
+ },
+ "b4ae53772904d2b2eeb056a06e7efbb92c36e605@ff-kalender": {
+  "title": "Prelim UoM Inflation Expectations",
+  "country": "USD",
+  "date": "2026-10-09T10:00:00-04:00",
+  "impact": "Medium",
+  "forecast": "",
+  "previous": "4.6%"
  }
 }
