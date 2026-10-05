@@ -37,7 +37,9 @@
   "date": "2026-10-05T10:00:00-04:00",
   "impact": "Medium",
   "forecast": "55.1",
-  "previous": "55.4"
+  "previous": "55.4",
+  "actual": "54.9",
+  "tone": ""
  },
  "b9a37f8ce701ee4d6a7bd9a6613135b3f378246a@ff-kalender": {
   "title": "Ivey PMI",
@@ -70,5 +72,21 @@
   "impact": "Medium",
   "forecast": "",
   "previous": "4.6%"
+ },
+ "9fce53804a49d0c2348f84c7a2d6b53fcd4b750d@ff-kalender": {
+  "title": "FOMC Member Waller Speaks",
+  "country": "USD",
+  "date": "2026-10-08T04:30:00-04:00",
+  "impact": "Medium",
+  "forecast": "",
+  "previous": ""
+ },
+ "ea73eae0d1512903b53733536173e464154fe93c@ff-kalender": {
+  "title": "BOE Gov Bailey Speaks",
+  "country": "GBP",
+  "date": "2026-10-08T08:15:00-04:00",
+  "impact": "High",
+  "forecast": "",
+  "previous": ""
  }
 }
