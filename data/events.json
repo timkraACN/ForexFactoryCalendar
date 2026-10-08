@@ -57,7 +57,9 @@
   "date": "2026-10-08T08:30:00-04:00",
   "impact": "Medium",
   "forecast": "200K",
-  "previous": "197K"
+  "previous": "197K",
+  "actual": "197K",
+  "tone": ""
  },
  "0430c6248969ac71d7637f4c12e0b0615c1fc69f@ff-kalender": {
   "title": "Prelim UoM Consumer Sentiment",
