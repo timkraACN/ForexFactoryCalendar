@@ -71,7 +71,9 @@
   "date": "2026-10-09T10:00:00-04:00",
   "impact": "Medium",
   "forecast": "47.5",
-  "previous": "47.8"
+  "previous": "47.8",
+  "actual": "46.3",
+  "tone": "worse"
  },
  "b4ae53772904d2b2eeb056a06e7efbb92c36e605@ff-kalender": {
   "title": "Prelim UoM Inflation Expectations",
@@ -79,7 +81,9 @@
   "date": "2026-10-09T10:00:00-04:00",
   "impact": "Medium",
   "forecast": "",
-  "previous": "4.6%"
+  "previous": "4.6%",
+  "actual": "4.7%",
+  "tone": ""
  },
  "9fce53804a49d0c2348f84c7a2d6b53fcd4b750d@ff-kalender": {
   "title": "FOMC Member Waller Speaks",
