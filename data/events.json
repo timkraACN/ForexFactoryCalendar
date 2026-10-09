@@ -21,7 +21,9 @@
   "date": "2026-10-09T08:30:00-04:00",
   "impact": "High",
   "forecast": "6.1K",
-  "previous": "-41.7K"
+  "previous": "-41.7K",
+  "actual": "-68.3K",
+  "tone": "worse"
  },
  "4909cde532df810ebd40faed4043f0489f39e0fa@ff-kalender": {
   "title": "Unemployment Rate",
@@ -29,7 +31,9 @@
   "date": "2026-10-09T08:30:00-04:00",
   "impact": "High",
   "forecast": "6.5%",
-  "previous": "6.4%"
+  "previous": "6.4%",
+  "actual": "6.5%",
+  "tone": ""
  },
  "5293c97f1469065732d3a8df720dd3efe8a14af6@ff-kalender": {
   "title": "ISM Services PMI",
