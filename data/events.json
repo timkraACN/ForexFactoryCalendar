@@ -108,5 +108,189 @@
   "impact": "Medium",
   "forecast": "",
   "previous": ""
+ },
+ "20a58a5c527cfd66939eab1c3a9d0dd7f05aaeb4@ff-kalender": {
+  "title": "ECB President Lagarde Speaks",
+  "country": "EUR",
+  "date": "2026-10-13T22:10:00-04:00",
+  "impact": "Medium",
+  "forecast": "",
+  "previous": ""
+ },
+ "d133b595cf4b5f31f27430120e7cf588dc94cc39@ff-kalender": {
+  "title": "BOE Gov Bailey Speaks",
+  "country": "GBP",
+  "date": "2026-10-14T01:30:00-04:00",
+  "impact": "Medium",
+  "forecast": "",
+  "previous": ""
+ },
+ "f351257fd571a87113d72030f972bdbcfcfab004@ff-kalender": {
+  "title": "BOC Gov Macklem Speaks",
+  "country": "CAD",
+  "date": "2026-10-14T02:05:00-04:00",
+  "impact": "Medium",
+  "forecast": "",
+  "previous": ""
+ },
+ "3975c5d2f47f9fb4d23495afdb977e1092431877@ff-kalender": {
+  "title": "ECB President Lagarde Speaks",
+  "country": "EUR",
+  "date": "2026-10-14T04:30:00-04:00",
+  "impact": "Medium",
+  "forecast": "",
+  "previous": ""
+ },
+ "33e2380c570be3d6d5b9310321fcc4d6ed13aee6@ff-kalender": {
+  "title": "Core CPI m/m",
+  "country": "USD",
+  "date": "2026-10-14T08:30:00-04:00",
+  "impact": "High",
+  "forecast": "0.2%",
+  "previous": "0.3%"
+ },
+ "fd3b2bb960b80c53d7371234a651208adc69caaa@ff-kalender": {
+  "title": "Core CPI y/y",
+  "country": "USD",
+  "date": "2026-10-14T08:30:00-04:00",
+  "impact": "High",
+  "forecast": "2.5%",
+  "previous": "2.4%"
+ },
+ "54e97c467d43686efad1608859e2c477f01058f4@ff-kalender": {
+  "title": "CPI m/m",
+  "country": "USD",
+  "date": "2026-10-14T08:30:00-04:00",
+  "impact": "High",
+  "forecast": "0.6%",
+  "previous": "0.4%"
+ },
+ "273c29cf513588a7a3494ac8efc990dfcdcdf2fd@ff-kalender": {
+  "title": "CPI y/y",
+  "country": "USD",
+  "date": "2026-10-14T08:30:00-04:00",
+  "impact": "High",
+  "forecast": "3.6%",
+  "previous": "3.4%"
+ },
+ "726506d74954fefdc355f3195056beaf81bc5a0c@ff-kalender": {
+  "title": "Employment Change",
+  "country": "AUD",
+  "date": "2026-10-14T20:30:00-04:00",
+  "impact": "High",
+  "forecast": "20.0K",
+  "previous": "39.5K"
+ },
+ "fcb42ee4066f650278c4597fc8d87aee9be885b8@ff-kalender": {
+  "title": "Unemployment Rate",
+  "country": "AUD",
+  "date": "2026-10-14T20:30:00-04:00",
+  "impact": "High",
+  "forecast": "4.6%",
+  "previous": "4.6%"
+ },
+ "e9ec9f16ab4530042b5ebfba3bb6ff753253e944@ff-kalender": {
+  "title": "SNB Chairman Schlegel Speaks",
+  "country": "CHF",
+  "date": "2026-10-15T00:30:00-04:00",
+  "impact": "Medium",
+  "forecast": "",
+  "previous": ""
+ },
+ "270812b48325f06dcd3ce3e62410117a14e9993a@ff-kalender": {
+  "title": "GDP m/m",
+  "country": "GBP",
+  "date": "2026-10-15T02:00:00-04:00",
+  "impact": "High",
+  "forecast": "-0.1%",
+  "previous": "0.4%"
+ },
+ "73b0082cc914b691da4ff0128489ebfed72ce70f@ff-kalender": {
+  "title": "BOE Gov Bailey Speaks",
+  "country": "GBP",
+  "date": "2026-10-15T03:30:00-04:00",
+  "impact": "Medium",
+  "forecast": "",
+  "previous": ""
+ },
+ "a13615b6012015e909316a78dbe68e31fe024aa3@ff-kalender": {
+  "title": "Core PPI m/m",
+  "country": "USD",
+  "date": "2026-10-15T08:30:00-04:00",
+  "impact": "High",
+  "forecast": "0.3%",
+  "previous": "0.2%"
+ },
+ "af9fc3d82845e7c08f3fe3d27ef2bceb5a8bb2e5@ff-kalender": {
+  "title": "Core Retail Sales m/m",
+  "country": "USD",
+  "date": "2026-10-15T08:30:00-04:00",
+  "impact": "High",
+  "forecast": "0.5%",
+  "previous": "1.4%"
+ },
+ "398c3efbda0c8764542db9c980930f290ad19e10@ff-kalender": {
+  "title": "PPI m/m",
+  "country": "USD",
+  "date": "2026-10-15T08:30:00-04:00",
+  "impact": "High",
+  "forecast": "0.5%",
+  "previous": "0.4%"
+ },
+ "b03c04b4ad35bc5a22a6337c46546c1811fd7138@ff-kalender": {
+  "title": "Retail Sales m/m",
+  "country": "USD",
+  "date": "2026-10-15T08:30:00-04:00",
+  "impact": "High",
+  "forecast": "0.3%",
+  "previous": "1.2%"
+ },
+ "5ab61a838d009309e5a880d0e619d1a044ca6902@ff-kalender": {
+  "title": "Philly Fed Manufacturing Index",
+  "country": "USD",
+  "date": "2026-10-15T08:30:00-04:00",
+  "impact": "Medium",
+  "forecast": "26.5",
+  "previous": "37.8"
+ },
+ "3cb1d2399e84a2a64dbdaeec2daf85898e8edeb1@ff-kalender": {
+  "title": "Unemployment Claims",
+  "country": "USD",
+  "date": "2026-10-15T08:30:00-04:00",
+  "impact": "Medium",
+  "forecast": "195K",
+  "previous": "197K"
+ },
+ "38723af2486e87b28a707eb0bf8617b8035a8181@ff-kalender": {
+  "title": "BOE Gov Bailey Speaks",
+  "country": "GBP",
+  "date": "2026-10-15T22:00:00-04:00",
+  "impact": "High",
+  "forecast": "",
+  "previous": ""
+ },
+ "cebe09392c06cc4cd4f45ceb04dbfd55290f8a28@ff-kalender": {
+  "title": "Fed Chairman Warsh Speaks",
+  "country": "USD",
+  "date": "2026-10-15T23:30:00-04:00",
+  "impact": "High",
+  "forecast": "",
+  "previous": ""
+ },
+ "03636da22a3d34406a17c60d9665f9d167400886@ff-kalender": {
+  "title": "BOC Gov Macklem Speaks",
+  "country": "CAD",
+  "date": "2026-10-16T00:15:00-04:00",
+  "impact": "Medium",
+  "forecast": "",
+  "previous": ""
+ },
+ "8f9ac775bc10ff51593cfd7e83242c79a1e2104e@ff-kalender": {
+  "title": "BOE Gov Bailey Speaks",
+  "country": "GBP",
+  "date": "2026-10-17T02:45:00-04:00",
+  "impact": "Medium",
+  "forecast": "",
+  "previous": ""
  }
 }
