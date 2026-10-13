@@ -292,5 +292,21 @@
   "impact": "Medium",
   "forecast": "",
   "previous": ""
+ },
+ "f96f6b24f61c0d4509dade7f67ffd556d3e6bcd2@ff-kalender": {
+  "title": "EU Economic Summit",
+  "country": "EUR",
+  "date": "2026-10-14T06:15:00-04:00",
+  "impact": "Medium",
+  "forecast": "",
+  "previous": ""
+ },
+ "bab65a03af92af2f5cc8b2df9fcb79acab046dd6@ff-kalender": {
+  "title": "EU Economic Summit",
+  "country": "EUR",
+  "date": "2026-10-15T06:15:00-04:00",
+  "impact": "Medium",
+  "forecast": "",
+  "previous": ""
  }
 }
