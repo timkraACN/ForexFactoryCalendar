@@ -147,7 +147,9 @@
   "date": "2026-10-14T08:30:00-04:00",
   "impact": "High",
   "forecast": "0.2%",
-  "previous": "0.3%"
+  "previous": "0.3%",
+  "actual": "0.3%",
+  "tone": "better"
  },
  "fd3b2bb960b80c53d7371234a651208adc69caaa@ff-kalender": {
   "title": "Core CPI y/y",
@@ -155,7 +157,9 @@
   "date": "2026-10-14T08:30:00-04:00",
   "impact": "High",
   "forecast": "2.5%",
-  "previous": "2.4%"
+  "previous": "2.4%",
+  "actual": "2.6%",
+  "tone": "better"
  },
  "54e97c467d43686efad1608859e2c477f01058f4@ff-kalender": {
   "title": "CPI m/m",
@@ -163,7 +167,9 @@
   "date": "2026-10-14T08:30:00-04:00",
   "impact": "High",
   "forecast": "0.6%",
-  "previous": "0.4%"
+  "previous": "0.4%",
+  "actual": "0.6%",
+  "tone": ""
  },
  "273c29cf513588a7a3494ac8efc990dfcdcdf2fd@ff-kalender": {
   "title": "CPI y/y",
@@ -171,7 +177,9 @@
   "date": "2026-10-14T08:30:00-04:00",
   "impact": "High",
   "forecast": "3.6%",
-  "previous": "3.4%"
+  "previous": "3.4%",
+  "actual": "3.7%",
+  "tone": "better"
  },
  "726506d74954fefdc355f3195056beaf81bc5a0c@ff-kalender": {
   "title": "Employment Change",
