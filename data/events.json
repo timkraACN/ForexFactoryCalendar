@@ -187,7 +187,9 @@
   "date": "2026-10-14T20:30:00-04:00",
   "impact": "High",
   "forecast": "19.6K",
-  "previous": "39.5K"
+  "previous": "39.5K",
+  "actual": "-39.3K",
+  "tone": "worse"
  },
  "fcb42ee4066f650278c4597fc8d87aee9be885b8@ff-kalender": {
   "title": "Unemployment Rate",
@@ -195,7 +197,9 @@
   "date": "2026-10-14T20:30:00-04:00",
   "impact": "High",
   "forecast": "4.6%",
-  "previous": "4.6%"
+  "previous": "4.6%",
+  "actual": "4.7%",
+  "tone": "worse"
  },
  "e9ec9f16ab4530042b5ebfba3bb6ff753253e944@ff-kalender": {
   "title": "SNB Chairman Schlegel Speaks",
