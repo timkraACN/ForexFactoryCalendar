@@ -334,5 +334,165 @@
   "impact": "Medium",
   "forecast": "",
   "previous": ""
+ },
+ "a8ed4118d2e5bc04a1cc56e60e1c618a19ed4522@ff-kalender": {
+  "title": "CPI m/m",
+  "country": "CAD",
+  "date": "2026-10-19T08:30:00-04:00",
+  "impact": "High",
+  "forecast": "0.2%",
+  "previous": "-0.1%"
+ },
+ "3d6eeaa87690f2539f886494997944b4b96337c2@ff-kalender": {
+  "title": "Median CPI y/y",
+  "country": "CAD",
+  "date": "2026-10-19T08:30:00-04:00",
+  "impact": "High",
+  "forecast": "2.0%",
+  "previous": "2.0%"
+ },
+ "c8a34a24f426ac80e4b124e1bf97e85ee309e5c2@ff-kalender": {
+  "title": "Trimmed CPI y/y",
+  "country": "CAD",
+  "date": "2026-10-19T08:30:00-04:00",
+  "impact": "High",
+  "forecast": "1.9%",
+  "previous": "1.9%"
+ },
+ "edc8c1bccd5ccf910b6ef6cbd61fb68e16607876@ff-kalender": {
+  "title": "Common CPI y/y",
+  "country": "CAD",
+  "date": "2026-10-19T08:30:00-04:00",
+  "impact": "Medium",
+  "forecast": "2.6%",
+  "previous": "2.6%"
+ },
+ "d0d7ad56ac52e56062e35cd1ead9b363916ac65e@ff-kalender": {
+  "title": "Average Earnings Index 3m/y",
+  "country": "GBP",
+  "date": "2026-10-20T02:00:00-04:00",
+  "impact": "Medium",
+  "forecast": "3.8%",
+  "previous": "3.9%"
+ },
+ "70d372a70fb725b8d7abfd2789b76765f05fa5f5@ff-kalender": {
+  "title": "CPI y/y",
+  "country": "GBP",
+  "date": "2026-10-21T02:00:00-04:00",
+  "impact": "High",
+  "forecast": "3.4%",
+  "previous": "3.1%"
+ },
+ "b3c22d91b24bb50b7c1be215d475c59b9ba77ea1@ff-kalender": {
+  "title": "BOE Gov Bailey Speaks",
+  "country": "GBP",
+  "date": "2026-10-21T09:00:00-04:00",
+  "impact": "Medium",
+  "forecast": "",
+  "previous": ""
+ },
+ "92907ce92a7217257f5d9827cbdc1a25e2b70dd1@ff-kalender": {
+  "title": "CPI q/q",
+  "country": "NZD",
+  "date": "2026-10-21T17:45:00-04:00",
+  "impact": "High",
+  "forecast": "0.8%",
+  "previous": "1.5%"
+ },
+ "765abc7aa6a7e8d04517e801ce840b3751a831ee@ff-kalender": {
+  "title": "Unemployment Claims",
+  "country": "USD",
+  "date": "2026-10-22T08:30:00-04:00",
+  "impact": "Medium",
+  "forecast": "200K",
+  "previous": "199K"
+ },
+ "33a507b8e7c2a0b92fe049243ab1f8c39e122f2e@ff-kalender": {
+  "title": "Retail Sales m/m",
+  "country": "GBP",
+  "date": "2026-10-23T02:00:00-04:00",
+  "impact": "Medium",
+  "forecast": "-0.2%",
+  "previous": "0.5%"
+ },
+ "7bc08cf5e805c7685591dc1f98ddbb2b5163f9c0@ff-kalender": {
+  "title": "French Flash Manufacturing PMI",
+  "country": "EUR",
+  "date": "2026-10-23T03:15:00-04:00",
+  "impact": "Medium",
+  "forecast": "50.6",
+  "previous": "50.3"
+ },
+ "93593dba541d844653a6986f82d6fb18102e66da@ff-kalender": {
+  "title": "French Flash Services PMI",
+  "country": "EUR",
+  "date": "2026-10-23T03:15:00-04:00",
+  "impact": "Medium",
+  "forecast": "50.8",
+  "previous": "51.4"
+ },
+ "6d648cd181b50e28d0fe41733c888a254205ba4e@ff-kalender": {
+  "title": "German Flash Manufacturing PMI",
+  "country": "EUR",
+  "date": "2026-10-23T03:30:00-04:00",
+  "impact": "Medium",
+  "forecast": "53.5",
+  "previous": "53.8"
+ },
+ "d517fd58a28c9a418fb001e3ed845c6023f94fa3@ff-kalender": {
+  "title": "German Flash Services PMI",
+  "country": "EUR",
+  "date": "2026-10-23T03:30:00-04:00",
+  "impact": "Medium",
+  "forecast": "52.6",
+  "previous": "52.9"
+ },
+ "682c800969d0e0f50aa2bed8be6026557fa4dbe6@ff-kalender": {
+  "title": "Flash Manufacturing PMI",
+  "country": "GBP",
+  "date": "2026-10-23T04:30:00-04:00",
+  "impact": "Medium",
+  "forecast": "51.8",
+  "previous": "52.0"
+ },
+ "2713749cb961f20a5e0f0674be1d3a74617d9cb0@ff-kalender": {
+  "title": "Flash Services PMI",
+  "country": "GBP",
+  "date": "2026-10-23T04:30:00-04:00",
+  "impact": "Medium",
+  "forecast": "51.8",
+  "previous": "51.7"
+ },
+ "31f506eef2414a05804caeb21af9174ff92fc887@ff-kalender": {
+  "title": "Flash Manufacturing PMI",
+  "country": "USD",
+  "date": "2026-10-23T09:45:00-04:00",
+  "impact": "Medium",
+  "forecast": "55.5",
+  "previous": "57.0"
+ },
+ "3d62ff59c95dcb3e016abc18be3a65a9c885640d@ff-kalender": {
+  "title": "Flash Services PMI",
+  "country": "USD",
+  "date": "2026-10-23T09:45:00-04:00",
+  "impact": "Medium",
+  "forecast": "58.0",
+  "previous": "58.7"
+ },
+ "6ac1aecd5971ed0a465f64c1e18649a48dccc132@ff-kalender": {
+  "title": "Revised UoM Consumer Sentiment",
+  "country": "USD",
+  "date": "2026-10-23T10:00:00-04:00",
+  "impact": "Medium",
+  "forecast": "46.3",
+  "previous": "46.3"
+ },
+ "cf03ac0de0c9cca0e2a5f6795ed0bdbadb966588@ff-kalender": {
+  "title": "Revised UoM Inflation Expectations",
+  "country": "USD",
+  "date": "2026-10-23T10:00:00-04:00",
+  "impact": "Medium",
+  "forecast": "",
+  "previous": "4.7%"
  }
 }
