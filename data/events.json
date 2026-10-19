@@ -341,7 +341,9 @@
   "date": "2026-10-19T08:30:00-04:00",
   "impact": "High",
   "forecast": "0.2%",
-  "previous": "-0.1%"
+  "previous": "-0.1%",
+  "actual": "0.1%",
+  "tone": "worse"
  },
  "3d6eeaa87690f2539f886494997944b4b96337c2@ff-kalender": {
   "title": "Median CPI y/y",
@@ -349,7 +351,9 @@
   "date": "2026-10-19T08:30:00-04:00",
   "impact": "High",
   "forecast": "2.0%",
-  "previous": "2.0%"
+  "previous": "2.0%",
+  "actual": "1.9%",
+  "tone": "worse"
  },
  "c8a34a24f426ac80e4b124e1bf97e85ee309e5c2@ff-kalender": {
   "title": "Trimmed CPI y/y",
@@ -357,7 +361,9 @@
   "date": "2026-10-19T08:30:00-04:00",
   "impact": "High",
   "forecast": "1.9%",
-  "previous": "1.9%"
+  "previous": "1.9%",
+  "actual": "1.8%",
+  "tone": "worse"
  },
  "edc8c1bccd5ccf910b6ef6cbd61fb68e16607876@ff-kalender": {
   "title": "Common CPI y/y",
@@ -365,7 +371,9 @@
   "date": "2026-10-19T08:30:00-04:00",
   "impact": "Medium",
   "forecast": "2.6%",
-  "previous": "2.6%"
+  "previous": "2.6%",
+  "actual": "2.4%",
+  "tone": "worse"
  },
  "d0d7ad56ac52e56062e35cd1ead9b363916ac65e@ff-kalender": {
   "title": "Average Earnings Index 3m/y",
