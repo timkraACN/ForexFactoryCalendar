@@ -409,7 +409,9 @@
   "date": "2026-10-21T17:45:00-04:00",
   "impact": "High",
   "forecast": "0.8%",
-  "previous": "1.5%"
+  "previous": "1.5%",
+  "actual": "0.7%",
+  "tone": "worse"
  },
  "765abc7aa6a7e8d04517e801ce840b3751a831ee@ff-kalender": {
   "title": "Unemployment Claims",
