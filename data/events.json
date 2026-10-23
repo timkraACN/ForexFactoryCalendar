@@ -499,7 +499,9 @@
   "date": "2026-10-23T09:45:00-04:00",
   "impact": "Medium",
   "forecast": "55.4",
-  "previous": "57.0"
+  "previous": "57.0",
+  "actual": "56.0",
+  "tone": "better"
  },
  "3d62ff59c95dcb3e016abc18be3a65a9c885640d@ff-kalender": {
   "title": "Flash Services PMI",
@@ -507,7 +509,9 @@
   "date": "2026-10-23T09:45:00-04:00",
   "impact": "Medium",
   "forecast": "57.9",
-  "previous": "58.7"
+  "previous": "58.7",
+  "actual": "57.9",
+  "tone": ""
  },
  "6ac1aecd5971ed0a465f64c1e18649a48dccc132@ff-kalender": {
   "title": "Revised UoM Consumer Sentiment",
@@ -515,7 +519,9 @@
   "date": "2026-10-23T10:00:00-04:00",
   "impact": "Medium",
   "forecast": "46.3",
-  "previous": "46.3"
+  "previous": "46.3",
+  "actual": "48.0",
+  "tone": "better"
  },
  "cf03ac0de0c9cca0e2a5f6795ed0bdbadb966588@ff-kalender": {
   "title": "Revised UoM Inflation Expectations",
@@ -523,6 +529,8 @@
   "date": "2026-10-23T10:00:00-04:00",
   "impact": "Medium",
   "forecast": "",
-  "previous": "4.7%"
+  "previous": "4.7%",
+  "actual": "4.7%",
+  "tone": ""
  }
 }
