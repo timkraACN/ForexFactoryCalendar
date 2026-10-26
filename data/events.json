@@ -538,7 +538,7 @@
   "country": "USD",
   "date": "2026-10-27T10:00:00-04:00",
   "impact": "Medium",
-  "forecast": "80.7",
+  "forecast": "81.2",
   "previous": "81.9"
  },
  "7fada9f5c02634333041f785156f01f7a5e11d1b@ff-kalender": {
@@ -690,7 +690,7 @@
   "country": "USD",
   "date": "2026-10-29T08:30:00-04:00",
   "impact": "Medium",
-  "forecast": "3.5%",
+  "forecast": "3.3%",
   "previous": "6.2%"
  },
  "d1bb8b0aea5483483eac0f4754b782f40bdd738b@ff-kalender": {
@@ -765,14 +765,6 @@
   "forecast": "",
   "previous": ""
  },
- "9a5897eaa6319767dfcba492175194a40df23647@ff-kalender": {
-  "title": "German Prelim CPI m/m",
-  "country": "EUR",
-  "date": "2026-10-30T02:29:00-04:00",
-  "impact": "Medium",
-  "forecast": "0.1%",
-  "previous": "0.6%"
- },
  "f6989d9e2ed539f17da8141dce141d8ec67d3a0e@ff-kalender": {
   "title": "German Prelim GDP q/q",
   "country": "EUR",
@@ -796,5 +788,13 @@
   "impact": "Medium",
   "forecast": "0.8%",
   "previous": "0.9%"
+ },
+ "c8dc0a0885b5ac7bbc27987f4bfb1125681c4646@ff-kalender": {
+  "title": "German Prelim CPI m/m",
+  "country": "EUR",
+  "date": "2026-10-30T03:29:00-04:00",
+  "impact": "Medium",
+  "forecast": "0.1%",
+  "previous": "0.6%"
  }
 }
