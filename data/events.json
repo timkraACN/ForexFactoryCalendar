@@ -539,7 +539,9 @@
   "date": "2026-10-27T10:00:00-04:00",
   "impact": "Medium",
   "forecast": "81.2",
-  "previous": "81.9"
+  "previous": "81.9",
+  "actual": "91.7",
+  "tone": "better"
  },
  "7fada9f5c02634333041f785156f01f7a5e11d1b@ff-kalender": {
   "title": "RBA Gov Bullock Speaks",
