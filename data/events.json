@@ -557,7 +557,9 @@
   "date": "2026-10-27T20:30:00-04:00",
   "impact": "High",
   "forecast": "0.7%",
-  "previous": "0.4%"
+  "previous": "0.4%",
+  "actual": "0.8%",
+  "tone": "better"
  },
  "6abf0cf47442793553747e733db9725b1a17c369@ff-kalender": {
   "title": "CPI y/y",
@@ -565,7 +567,9 @@
   "date": "2026-10-27T20:30:00-04:00",
   "impact": "High",
   "forecast": "4.2%",
-  "previous": "4.0%"
+  "previous": "4.0%",
+  "actual": "4.3%",
+  "tone": "better"
  },
  "ffb6f6e3740efb4465caedddf498a6ef61c7ef17@ff-kalender": {
   "title": "Trimmed Mean CPI m/m",
@@ -573,7 +577,9 @@
   "date": "2026-10-27T20:30:00-04:00",
   "impact": "High",
   "forecast": "0.3%",
-  "previous": "0.2%"
+  "previous": "0.2%",
+  "actual": "0.3%",
+  "tone": ""
  },
  "88d13ae2c4c8233ddc02fd8abf80663be3da167b@ff-kalender": {
   "title": "Official Cash Rate",
@@ -581,7 +587,9 @@
   "date": "2026-10-27T21:00:00-04:00",
   "impact": "High",
   "forecast": "3.00%",
-  "previous": "2.75%"
+  "previous": "2.75%",
+  "actual": "2.75%",
+  "tone": "worse"
  },
  "9753b746287d7edf52c9f3271d1e0dab347fdda7@ff-kalender": {
   "title": "RBNZ Rate Statement",
