@@ -645,7 +645,9 @@
   "date": "2026-10-28T09:45:00-04:00",
   "impact": "High",
   "forecast": "2.50%",
-  "previous": "2.25%"
+  "previous": "2.25%",
+  "actual": "2.50%",
+  "tone": ""
  },
  "e81e78af878b645dde3845b33c2db5cfeb7c4e1e@ff-kalender": {
   "title": "BOC Press Conference",
