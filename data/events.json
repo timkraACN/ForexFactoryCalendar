@@ -663,7 +663,9 @@
   "date": "2026-10-28T14:00:00-04:00",
   "impact": "High",
   "forecast": "4.00%",
-  "previous": "4.00%"
+  "previous": "4.00%",
+  "actual": "4.00%",
+  "tone": ""
  },
  "0119e80d1024ef1ed2cf40a11535a3349bcfb04c@ff-kalender": {
   "title": "FOMC Statement",
