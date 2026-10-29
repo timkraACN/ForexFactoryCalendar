@@ -689,7 +689,9 @@
   "date": "2026-10-29T08:30:00-04:00",
   "impact": "High",
   "forecast": "3.2%",
-  "previous": "1.5%"
+  "previous": "1.5%",
+  "actual": "3.4%",
+  "tone": "better"
  },
  "bf1601ffab83334c2de63c827c175a393e3cdc72@ff-kalender": {
   "title": "Core PCE Price Index m/m",
@@ -697,7 +699,9 @@
   "date": "2026-10-29T08:30:00-04:00",
   "impact": "High",
   "forecast": "0.3%",
-  "previous": "0.2%"
+  "previous": "0.2%",
+  "actual": "0.3%",
+  "tone": ""
  },
  "655d5d3c5fd380a638ed98340186c9fcba675a92@ff-kalender": {
   "title": "Advance GDP Price Index q/q",
@@ -705,7 +709,9 @@
   "date": "2026-10-29T08:30:00-04:00",
   "impact": "Medium",
   "forecast": "3.2%",
-  "previous": "6.2%"
+  "previous": "6.2%",
+  "actual": "2.3%",
+  "tone": "worse"
  },
  "d1bb8b0aea5483483eac0f4754b782f40bdd738b@ff-kalender": {
   "title": "Unemployment Claims",
@@ -713,7 +719,9 @@
   "date": "2026-10-29T08:30:00-04:00",
   "impact": "Medium",
   "forecast": "198K",
-  "previous": "194K"
+  "previous": "194K",
+  "actual": "194K",
+  "tone": ""
  },
  "8b8ba0395a0686eac4925aad90d5dc366a9d3a72@ff-kalender": {
   "title": "Main Refinancing Rate",
@@ -721,7 +729,9 @@
   "date": "2026-10-29T09:15:00-04:00",
   "impact": "High",
   "forecast": "2.65%",
-  "previous": "2.65%"
+  "previous": "2.65%",
+  "actual": "2.65%",
+  "tone": ""
  },
  "68488b36f54b6cfbc2ff168b01bfa17f8a7cfab8@ff-kalender": {
   "title": "Monetary Policy Statement",
