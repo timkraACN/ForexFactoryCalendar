@@ -775,7 +775,9 @@
   "date": "2026-10-30T08:30:00-04:00",
   "impact": "Medium",
   "forecast": "0.2%",
-  "previous": "0.0%"
+  "previous": "0.0%",
+  "actual": "0.0%",
+  "tone": "worse"
  },
  "d6afc9b69b8263642bd14529670cbec0d8f0e12d@ff-kalender": {
   "title": "Employment Cost Index q/q",
@@ -783,7 +785,9 @@
   "date": "2026-10-30T08:30:00-04:00",
   "impact": "Medium",
   "forecast": "0.8%",
-  "previous": "0.9%"
+  "previous": "0.9%",
+  "actual": "0.8%",
+  "tone": ""
  },
  "c8dc0a0885b5ac7bbc27987f4bfb1125681c4646@ff-kalender": {
   "title": "German Prelim CPI m/m",
@@ -791,7 +795,9 @@
   "date": "2026-10-30T03:29:00-04:00",
   "impact": "Medium",
   "forecast": "0.1%",
-  "previous": "0.6%"
+  "previous": "0.6%",
+  "actual": "-0.2%",
+  "tone": "worse"
  },
  "e51cc37e51532519a141bf2e016ee226f7a1b911@ff-kalender": {
   "title": "BOJ Outlook Report",
