@@ -759,45 +759,15 @@
   "actual": "2.6%",
   "tone": ""
  },
- "af547872eb19d3895ceef338139fb558c0511cd5@ff-kalender": {
-  "title": "BOJ Policy Rate",
-  "country": "JPY",
-  "date": "2026-10-29T22:30:00-04:00",
-  "impact": "High",
-  "forecast": "<1.25%",
-  "previous": "<1.25%"
- },
- "54a50857ae98d096882d8542d1940f314b25c521@ff-kalender": {
-  "title": "Monetary Policy Statement",
-  "country": "JPY",
-  "date": "2026-10-29T22:30:00-04:00",
-  "impact": "High",
-  "forecast": "",
-  "previous": ""
- },
- "690d68c393808b62bc24ae4a971dae9330d5a97c@ff-kalender": {
-  "title": "BOJ Outlook Report",
-  "country": "JPY",
-  "date": "2026-10-29T22:31:00-04:00",
-  "impact": "High",
-  "forecast": "",
-  "previous": ""
- },
- "f65fddc41e5e5bfbfd071995a1d702badaf213ad@ff-kalender": {
-  "title": "BOJ Press Conference",
-  "country": "JPY",
-  "date": "2026-10-30T01:30:00-04:00",
-  "impact": "High",
-  "forecast": "",
-  "previous": ""
- },
  "f6989d9e2ed539f17da8141dce141d8ec67d3a0e@ff-kalender": {
   "title": "German Prelim GDP q/q",
   "country": "EUR",
   "date": "2026-10-30T05:00:00-04:00",
   "impact": "Medium",
   "forecast": "0.1%",
-  "previous": "0.2%"
+  "previous": "0.2%",
+  "actual": "0.2%",
+  "tone": "better"
  },
  "857dc91d3e14116ade14ceb549ce027e3b79d29d@ff-kalender": {
   "title": "GDP m/m",
@@ -822,5 +792,39 @@
   "impact": "Medium",
   "forecast": "0.1%",
   "previous": "0.6%"
+ },
+ "e51cc37e51532519a141bf2e016ee226f7a1b911@ff-kalender": {
+  "title": "BOJ Outlook Report",
+  "country": "JPY",
+  "date": "2026-10-29T23:02:00-04:00",
+  "impact": "High",
+  "forecast": "",
+  "previous": ""
+ },
+ "3c8b0ed29c225e31eaae231efb56a4d5df8f5233@ff-kalender": {
+  "title": "BOJ Policy Rate",
+  "country": "JPY",
+  "date": "2026-10-29T23:02:00-04:00",
+  "impact": "High",
+  "forecast": "<1.25%",
+  "previous": "<1.25%",
+  "actual": "<1.25%",
+  "tone": ""
+ },
+ "406c63c5877223afa6155fa9b89bf76820d46380@ff-kalender": {
+  "title": "Monetary Policy Statement",
+  "country": "JPY",
+  "date": "2026-10-29T23:02:00-04:00",
+  "impact": "High",
+  "forecast": "",
+  "previous": ""
+ },
+ "6a4d5242ada8f619877ab0b7f7fd5ce673b7bc1b@ff-kalender": {
+  "title": "BOJ Press Conference",
+  "country": "JPY",
+  "date": "2026-10-30T02:30:00-04:00",
+  "impact": "High",
+  "forecast": "",
+  "previous": ""
  }
 }
