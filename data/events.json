@@ -832,5 +832,277 @@
   "impact": "High",
   "forecast": "",
   "previous": ""
+ },
+ "a2989d230d7825e5028e81eb425ad32a5be3ad4d@ff-kalender": {
+  "title": "ISM Manufacturing PMI",
+  "country": "USD",
+  "date": "2026-11-02T10:00:00-05:00",
+  "impact": "Medium",
+  "forecast": "54.7",
+  "previous": "54.5"
+ },
+ "64a9fcd6c7b8ecf6eb790e9b29560a2569714fc0@ff-kalender": {
+  "title": "Cash Rate",
+  "country": "AUD",
+  "date": "2026-11-02T22:30:00-05:00",
+  "impact": "High",
+  "forecast": "4.85%",
+  "previous": "4.60%"
+ },
+ "0059c4ec1296336650260d2e8bcce06f678df3f5@ff-kalender": {
+  "title": "RBA Monetary Policy Statement",
+  "country": "AUD",
+  "date": "2026-11-02T22:30:00-05:00",
+  "impact": "High",
+  "forecast": "",
+  "previous": ""
+ },
+ "c40acf8ad1f95388047ba6d2b9b28831ae30a93b@ff-kalender": {
+  "title": "RBA Rate Statement",
+  "country": "AUD",
+  "date": "2026-11-02T22:30:00-05:00",
+  "impact": "High",
+  "forecast": "",
+  "previous": ""
+ },
+ "3c1d56706e7311580b507b54ced55aee3fba2428@ff-kalender": {
+  "title": "RBA Press Conference",
+  "country": "AUD",
+  "date": "2026-11-02T23:30:00-05:00",
+  "impact": "High",
+  "forecast": "",
+  "previous": ""
+ },
+ "cdc6398bfb294720268ec9d98058ef3191e34203@ff-kalender": {
+  "title": "CPI m/m",
+  "country": "CHF",
+  "date": "2026-11-03T02:30:00-05:00",
+  "impact": "Medium",
+  "forecast": "0.0%",
+  "previous": "0.0%"
+ },
+ "67c6ecab2c8ffc5da3ff1c5f17ab1d3557e6e624@ff-kalender": {
+  "title": "JOLTS Job Openings",
+  "country": "USD",
+  "date": "2026-11-03T10:00:00-05:00",
+  "impact": "Medium",
+  "forecast": "7.11M",
+  "previous": "7.08M"
+ },
+ "0f252da7db1a1a07931467afc4a3fc171b571a6a@ff-kalender": {
+  "title": "Congressional Elections",
+  "country": "USD",
+  "date": "2026-11-03T10:16:00-05:00",
+  "impact": "High",
+  "forecast": "",
+  "previous": ""
+ },
+ "80e154a7d9717603dd3c9c2dad6b9119545dc19c@ff-kalender": {
+  "title": "BOC Gov Macklem Speaks",
+  "country": "CAD",
+  "date": "2026-11-03T11:00:00-05:00",
+  "impact": "Medium",
+  "forecast": "",
+  "previous": ""
+ },
+ "a232666f78bd612a953e45d193f67737a1c6d199@ff-kalender": {
+  "title": "Employment Change q/q",
+  "country": "NZD",
+  "date": "2026-11-03T16:45:00-05:00",
+  "impact": "High",
+  "forecast": "0.4%",
+  "previous": "0.5%"
+ },
+ "d08ef11c7877b01319f48fc811674a07337b8c12@ff-kalender": {
+  "title": "Unemployment Rate",
+  "country": "NZD",
+  "date": "2026-11-03T16:45:00-05:00",
+  "impact": "High",
+  "forecast": "5.5%",
+  "previous": "5.6%"
+ },
+ "4a03c741a9d69e54fb6af7edfdf17284c11fcf02@ff-kalender": {
+  "title": "Core CPI Flash Estimate y/y",
+  "country": "EUR",
+  "date": "2026-11-04T05:00:00-05:00",
+  "impact": "Medium",
+  "forecast": "2.5%",
+  "previous": "2.5%"
+ },
+ "1bea8e93f8f919c87253889f61a72f8a97371867@ff-kalender": {
+  "title": "CPI Flash Estimate y/y",
+  "country": "EUR",
+  "date": "2026-11-04T05:00:00-05:00",
+  "impact": "Medium",
+  "forecast": "4.0%",
+  "previous": "3.8%"
+ },
+ "dc4c425a4ab846c2b1b918d9238075e3bc15a685@ff-kalender": {
+  "title": "ISM Services PMI",
+  "country": "USD",
+  "date": "2026-11-04T10:00:00-05:00",
+  "impact": "Medium",
+  "forecast": "54.9",
+  "previous": "54.9"
+ },
+ "d7b4fdba524235856162c131a85b4a23d86096f6@ff-kalender": {
+  "title": "BOE Monetary Policy Report",
+  "country": "GBP",
+  "date": "2026-11-05T07:00:00-05:00",
+  "impact": "High",
+  "forecast": "",
+  "previous": ""
+ },
+ "e1453c89fb6d42550210482781762dfeb3fb156f@ff-kalender": {
+  "title": "Monetary Policy Summary",
+  "country": "GBP",
+  "date": "2026-11-05T07:00:00-05:00",
+  "impact": "High",
+  "forecast": "",
+  "previous": ""
+ },
+ "2d866f1e80c0843273219950dc4cbec023f14ec8@ff-kalender": {
+  "title": "MPC Official Bank Rate Votes",
+  "country": "GBP",
+  "date": "2026-11-05T07:00:00-05:00",
+  "impact": "High",
+  "forecast": "7-0-2",
+  "previous": "3-0-6"
+ },
+ "0be757353310a5f037a8144a68ca5a2f5f41564b@ff-kalender": {
+  "title": "Official Bank Rate",
+  "country": "GBP",
+  "date": "2026-11-05T07:00:00-05:00",
+  "impact": "High",
+  "forecast": "4.00%",
+  "previous": "3.75%"
+ },
+ "8548013d5844658749be882c263d50fc6af99296@ff-kalender": {
+  "title": "BOE Gov Bailey Speaks",
+  "country": "GBP",
+  "date": "2026-11-05T07:30:00-05:00",
+  "impact": "High",
+  "forecast": "",
+  "previous": ""
+ },
+ "56b166d23c78e0f1f1aac1b4d237a93d1d90f970@ff-kalender": {
+  "title": "SNB Chairman Schlegel Speaks",
+  "country": "CHF",
+  "date": "2026-11-05T07:40:00-05:00",
+  "impact": "Medium",
+  "forecast": "",
+  "previous": ""
+ },
+ "eb911cf59c58b8c49b001f56fe361d1011e5c8f6@ff-kalender": {
+  "title": "Unemployment Claims",
+  "country": "USD",
+  "date": "2026-11-05T08:30:00-05:00",
+  "impact": "Medium",
+  "forecast": "197K",
+  "previous": "194K"
+ },
+ "3be2fbb7f6863d2f5d4ab0531ec6b5318d1b9691@ff-kalender": {
+  "title": "BOC Gov Macklem Speaks",
+  "country": "CAD",
+  "date": "2026-11-05T10:30:00-05:00",
+  "impact": "Medium",
+  "forecast": "",
+  "previous": ""
+ },
+ "1289225413d7e7a25256a430ebec95e89af943ae@ff-kalender": {
+  "title": "ECB President Lagarde Speaks",
+  "country": "EUR",
+  "date": "2026-11-05T13:00:00-05:00",
+  "impact": "Medium",
+  "forecast": "",
+  "previous": ""
+ },
+ "284465ba2536afd60b07bb03b85d8226955f7e09@ff-kalender": {
+  "title": "Annual Budget Release",
+  "country": "CAD",
+  "date": "2026-11-05T16:00:00-05:00",
+  "impact": "Medium",
+  "forecast": "",
+  "previous": ""
+ },
+ "04414067c705754a22d471bb744a9f03220652be@ff-kalender": {
+  "title": "Employment Change",
+  "country": "CAD",
+  "date": "2026-11-06T08:30:00-05:00",
+  "impact": "High",
+  "forecast": "14.5K",
+  "previous": "-68.3K"
+ },
+ "6bea01de34bd939b3a6c4e4fe11177a1c063e771@ff-kalender": {
+  "title": "Unemployment Rate",
+  "country": "CAD",
+  "date": "2026-11-06T08:30:00-05:00",
+  "impact": "High",
+  "forecast": "6.5%",
+  "previous": "6.5%"
+ },
+ "8146a072a1e84963daebdb10bdc4214e3e261ed6@ff-kalender": {
+  "title": "Average Hourly Earnings m/m",
+  "country": "USD",
+  "date": "2026-11-06T08:30:00-05:00",
+  "impact": "High",
+  "forecast": "0.3%",
+  "previous": "0.1%"
+ },
+ "aa4045f5ad214c54315b3ff8cccc8d5d61aeed55@ff-kalender": {
+  "title": "Non-Farm Employment Change",
+  "country": "USD",
+  "date": "2026-11-06T08:30:00-05:00",
+  "impact": "High",
+  "forecast": "63K",
+  "previous": "29K"
+ },
+ "b21ad904182c2d4e920df3a7efd4475957242c9b@ff-kalender": {
+  "title": "Unemployment Rate",
+  "country": "USD",
+  "date": "2026-11-06T08:30:00-05:00",
+  "impact": "High",
+  "forecast": "4.2%",
+  "previous": "4.2%"
+ },
+ "e05956c2fa7485da8cb493f86c195b92bfa74f8b@ff-kalender": {
+  "title": "Ivey PMI",
+  "country": "CAD",
+  "date": "2026-11-06T10:00:00-05:00",
+  "impact": "Medium",
+  "forecast": "57.7",
+  "previous": "58.2"
+ },
+ "4f6fda08927cecc73024d97a7cc00b4d5d79d483@ff-kalender": {
+  "title": "Prelim UoM Consumer Sentiment",
+  "country": "USD",
+  "date": "2026-11-06T10:00:00-05:00",
+  "impact": "Medium",
+  "forecast": "47.8",
+  "previous": "46.3"
+ },
+ "b541100baea8bbb1c5b54ce5f009e1da69e55c13@ff-kalender": {
+  "title": "Prelim UoM Inflation Expectations",
+  "country": "USD",
+  "date": "2026-11-06T10:00:00-05:00",
+  "impact": "Medium",
+  "forecast": "",
+  "previous": "4.7%"
+ },
+ "5fd38b7a8e567319220b06c304753db8b890bc8f@ff-kalender": {
+  "title": "BOJ Gov Ueda Speaks",
+  "country": "JPY",
+  "date": "2026-11-06T11:00:00-05:00",
+  "impact": "High",
+  "forecast": "",
+  "previous": ""
+ },
+ "953101340ceea4618f6429a11378d9e655a4943a@ff-kalender": {
+  "title": "Parliamentary Elections",
+  "country": "NZD",
+  "date": "2026-11-06T16:45:00-05:00",
+  "impact": "High",
+  "forecast": "",
+  "previous": ""
  }
 }
