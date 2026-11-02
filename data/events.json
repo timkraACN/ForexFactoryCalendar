@@ -839,7 +839,9 @@
   "date": "2026-11-02T10:00:00-05:00",
   "impact": "Medium",
   "forecast": "54.5",
-  "previous": "54.5"
+  "previous": "54.5",
+  "actual": "55.5",
+  "tone": "better"
  },
  "64a9fcd6c7b8ecf6eb790e9b29560a2569714fc0@ff-kalender": {
   "title": "Cash Rate",
@@ -886,7 +888,7 @@
   "country": "USD",
   "date": "2026-11-03T10:00:00-05:00",
   "impact": "Medium",
-  "forecast": "7.11M",
+  "forecast": "7.15M",
   "previous": "7.08M"
  },
  "0f252da7db1a1a07931467afc4a3fc171b571a6a@ff-kalender": {
@@ -942,7 +944,7 @@
   "country": "USD",
   "date": "2026-11-04T10:00:00-05:00",
   "impact": "Medium",
-  "forecast": "54.9",
+  "forecast": "54.8",
   "previous": "54.9"
  },
  "d7b4fdba524235856162c131a85b4a23d86096f6@ff-kalender": {
@@ -1030,7 +1032,7 @@
   "country": "CAD",
   "date": "2026-11-06T08:30:00-05:00",
   "impact": "High",
-  "forecast": "14.5K",
+  "forecast": "14.6K",
   "previous": "-68.3K"
  },
  "6bea01de34bd939b3a6c4e4fe11177a1c063e771@ff-kalender": {
@@ -1054,7 +1056,7 @@
   "country": "USD",
   "date": "2026-11-06T08:30:00-05:00",
   "impact": "High",
-  "forecast": "63K",
+  "forecast": "65K",
   "previous": "29K"
  },
  "b21ad904182c2d4e920df3a7efd4475957242c9b@ff-kalender": {
@@ -1078,7 +1080,7 @@
   "country": "USD",
   "date": "2026-11-06T10:00:00-05:00",
   "impact": "Medium",
-  "forecast": "47.8",
+  "forecast": "48.1",
   "previous": "46.3"
  },
  "b541100baea8bbb1c5b54ce5f009e1da69e55c13@ff-kalender": {
