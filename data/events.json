@@ -919,7 +919,9 @@
   "date": "2026-11-03T16:45:00-05:00",
   "impact": "High",
   "forecast": "0.4%",
-  "previous": "0.5%"
+  "previous": "0.5%",
+  "actual": "-0.1%",
+  "tone": "worse"
  },
  "d08ef11c7877b01319f48fc811674a07337b8c12@ff-kalender": {
   "title": "Unemployment Rate",
@@ -927,7 +929,9 @@
   "date": "2026-11-03T16:45:00-05:00",
   "impact": "High",
   "forecast": "5.5%",
-  "previous": "5.6%"
+  "previous": "5.6%",
+  "actual": "5.7%",
+  "tone": "worse"
  },
  "4a03c741a9d69e54fb6af7edfdf17284c11fcf02@ff-kalender": {
   "title": "Core CPI Flash Estimate y/y",
