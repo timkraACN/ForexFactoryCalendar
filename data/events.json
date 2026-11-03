@@ -893,7 +893,9 @@
   "date": "2026-11-03T10:00:00-05:00",
   "impact": "Medium",
   "forecast": "7.15M",
-  "previous": "7.08M"
+  "previous": "7.08M",
+  "actual": "7.52M",
+  "tone": "better"
  },
  "0f252da7db1a1a07931467afc4a3fc171b571a6a@ff-kalender": {
   "title": "Congressional Elections",
