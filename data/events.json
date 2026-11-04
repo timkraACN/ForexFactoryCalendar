@@ -939,7 +939,9 @@
   "date": "2026-11-04T05:00:00-05:00",
   "impact": "Medium",
   "forecast": "2.5%",
-  "previous": "2.5%"
+  "previous": "2.5%",
+  "actual": "2.5%",
+  "tone": ""
  },
  "1bea8e93f8f919c87253889f61a72f8a97371867@ff-kalender": {
   "title": "CPI Flash Estimate y/y",
@@ -947,7 +949,9 @@
   "date": "2026-11-04T05:00:00-05:00",
   "impact": "Medium",
   "forecast": "4.0%",
-  "previous": "3.8%"
+  "previous": "3.8%",
+  "actual": "4.0%",
+  "tone": ""
  },
  "dc4c425a4ab846c2b1b918d9238075e3bc15a685@ff-kalender": {
   "title": "ISM Services PMI",
