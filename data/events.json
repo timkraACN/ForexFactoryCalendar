@@ -985,7 +985,9 @@
   "date": "2026-11-05T07:00:00-05:00",
   "impact": "High",
   "forecast": "7-0-2",
-  "previous": "3-0-6"
+  "previous": "3-0-6",
+  "actual": "9-0-0",
+  "tone": "better"
  },
  "0be757353310a5f037a8144a68ca5a2f5f41564b@ff-kalender": {
   "title": "Official Bank Rate",
@@ -993,7 +995,9 @@
   "date": "2026-11-05T07:00:00-05:00",
   "impact": "High",
   "forecast": "4.00%",
-  "previous": "3.75%"
+  "previous": "3.75%",
+  "actual": "4.00%",
+  "tone": ""
  },
  "8548013d5844658749be882c263d50fc6af99296@ff-kalender": {
   "title": "BOE Gov Bailey Speaks",
@@ -1017,7 +1021,9 @@
   "date": "2026-11-05T08:30:00-05:00",
   "impact": "Medium",
   "forecast": "197K",
-  "previous": "194K"
+  "previous": "194K",
+  "actual": "189K",
+  "tone": "better"
  },
  "3be2fbb7f6863d2f5d4ab0531ec6b5318d1b9691@ff-kalender": {
   "title": "BOC Gov Macklem Speaks",
