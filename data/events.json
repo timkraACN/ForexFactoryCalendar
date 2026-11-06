@@ -1055,7 +1055,9 @@
   "date": "2026-11-06T08:30:00-05:00",
   "impact": "High",
   "forecast": "14.6K",
-  "previous": "-68.3K"
+  "previous": "-68.3K",
+  "actual": "-4.7K",
+  "tone": "worse"
  },
  "6bea01de34bd939b3a6c4e4fe11177a1c063e771@ff-kalender": {
   "title": "Unemployment Rate",
@@ -1063,7 +1065,9 @@
   "date": "2026-11-06T08:30:00-05:00",
   "impact": "High",
   "forecast": "6.5%",
-  "previous": "6.5%"
+  "previous": "6.5%",
+  "actual": "6.7%",
+  "tone": "worse"
  },
  "8146a072a1e84963daebdb10bdc4214e3e261ed6@ff-kalender": {
   "title": "Average Hourly Earnings m/m",
@@ -1071,7 +1075,9 @@
   "date": "2026-11-06T08:30:00-05:00",
   "impact": "High",
   "forecast": "0.3%",
-  "previous": "0.1%"
+  "previous": "0.1%",
+  "actual": "0.4%",
+  "tone": "better"
  },
  "aa4045f5ad214c54315b3ff8cccc8d5d61aeed55@ff-kalender": {
   "title": "Non-Farm Employment Change",
@@ -1079,7 +1085,9 @@
   "date": "2026-11-06T08:30:00-05:00",
   "impact": "High",
   "forecast": "65K",
-  "previous": "29K"
+  "previous": "29K",
+  "actual": "165K",
+  "tone": "better"
  },
  "b21ad904182c2d4e920df3a7efd4475957242c9b@ff-kalender": {
   "title": "Unemployment Rate",
@@ -1087,7 +1095,9 @@
   "date": "2026-11-06T08:30:00-05:00",
   "impact": "High",
   "forecast": "4.2%",
-  "previous": "4.2%"
+  "previous": "4.2%",
+  "actual": "4.1%",
+  "tone": "better"
  },
  "e05956c2fa7485da8cb493f86c195b92bfa74f8b@ff-kalender": {
   "title": "Ivey PMI",
@@ -1095,7 +1105,9 @@
   "date": "2026-11-06T10:00:00-05:00",
   "impact": "Medium",
   "forecast": "57.7",
-  "previous": "58.2"
+  "previous": "58.2",
+  "actual": "58.3",
+  "tone": "better"
  },
  "4f6fda08927cecc73024d97a7cc00b4d5d79d483@ff-kalender": {
   "title": "Prelim UoM Consumer Sentiment",
@@ -1103,7 +1115,9 @@
   "date": "2026-11-06T10:00:00-05:00",
   "impact": "Medium",
   "forecast": "48.1",
-  "previous": "46.3"
+  "previous": "46.3",
+  "actual": "51.0",
+  "tone": "better"
  },
  "b541100baea8bbb1c5b54ce5f009e1da69e55c13@ff-kalender": {
   "title": "Prelim UoM Inflation Expectations",
@@ -1111,7 +1125,9 @@
   "date": "2026-11-06T10:00:00-05:00",
   "impact": "Medium",
   "forecast": "",
-  "previous": "4.7%"
+  "previous": "4.7%",
+  "actual": "4.3%",
+  "tone": ""
  },
  "5fd38b7a8e567319220b06c304753db8b890bc8f@ff-kalender": {
   "title": "BOJ Gov Ueda Speaks",
