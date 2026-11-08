@@ -1144,5 +1144,85 @@
   "impact": "High",
   "forecast": "",
   "previous": ""
+ },
+ "47ffbc9068a304b2d8756c90755cc66940220f3b@ff-kalender": {
+  "title": "BOE Gov Bailey Speaks",
+  "country": "GBP",
+  "date": "2026-11-09T12:25:00-05:00",
+  "impact": "Medium",
+  "forecast": "",
+  "previous": ""
+ },
+ "56d9d2d3082b68f05cf51fb72e64033345bcff64@ff-kalender": {
+  "title": "FOMC Member Waller Speaks",
+  "country": "USD",
+  "date": "2026-11-10T04:00:00-05:00",
+  "impact": "Medium",
+  "forecast": "",
+  "previous": ""
+ },
+ "ea71b02ff42b471021e0e102b1918fdbd583e41d@ff-kalender": {
+  "title": "Core CPI m/m",
+  "country": "USD",
+  "date": "2026-11-10T08:30:00-05:00",
+  "impact": "High",
+  "forecast": "0.2%",
+  "previous": "0.3%"
+ },
+ "65c6dd37ec80b638ab9202b22b16037ea9fd0882@ff-kalender": {
+  "title": "CPI m/m",
+  "country": "USD",
+  "date": "2026-11-10T08:30:00-05:00",
+  "impact": "High",
+  "forecast": "0.3%",
+  "previous": "0.6%"
+ },
+ "61f3aa143850ab682ec4542eeaead86374cedf79@ff-kalender": {
+  "title": "GDP m/m",
+  "country": "GBP",
+  "date": "2026-11-12T02:00:00-05:00",
+  "impact": "High",
+  "forecast": "0.0%",
+  "previous": "0.1%"
+ },
+ "ea9b1b888cf0cfdcb44d0b87a4bc8c98644910e3@ff-kalender": {
+  "title": "Prelim GDP q/q",
+  "country": "GBP",
+  "date": "2026-11-12T02:00:00-05:00",
+  "impact": "Medium",
+  "forecast": "0.7%",
+  "previous": "0.5%"
+ },
+ "1e0bf4396d4e92e00c93e201daa8d07a3f92578a@ff-kalender": {
+  "title": "Unemployment Claims",
+  "country": "USD",
+  "date": "2026-11-12T08:30:00-05:00",
+  "impact": "Medium",
+  "forecast": "194K",
+  "previous": "189K"
+ },
+ "2c34f7c6be60599e54a5220f80b51dabd45894bb@ff-kalender": {
+  "title": "ECB President Lagarde Speaks",
+  "country": "EUR",
+  "date": "2026-11-12T14:30:00-05:00",
+  "impact": "Medium",
+  "forecast": "",
+  "previous": ""
+ },
+ "46e566415526008826b43a1c548d9bf9d9fa204a@ff-kalender": {
+  "title": "Core PPI m/m",
+  "country": "USD",
+  "date": "2026-11-13T08:30:00-05:00",
+  "impact": "High",
+  "forecast": "0.3%",
+  "previous": "0.7%"
+ },
+ "b9f8c652755f4ea17a2da6f37f1e916f9ec9ae6f@ff-kalender": {
+  "title": "PPI m/m",
+  "country": "USD",
+  "date": "2026-11-13T08:30:00-05:00",
+  "impact": "High",
+  "forecast": "0.4%",
+  "previous": "1.3%"
  }
 }
