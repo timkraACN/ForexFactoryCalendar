@@ -1203,7 +1203,9 @@
   "date": "2026-11-12T08:30:00-05:00",
   "impact": "Medium",
   "forecast": "194K",
-  "previous": "189K"
+  "previous": "189K",
+  "actual": "200K",
+  "tone": "worse"
  },
  "2c34f7c6be60599e54a5220f80b51dabd45894bb@ff-kalender": {
   "title": "ECB President Lagarde Speaks",
