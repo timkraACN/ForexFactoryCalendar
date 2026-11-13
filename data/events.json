@@ -1225,7 +1225,9 @@
   "date": "2026-11-13T08:30:00-05:00",
   "impact": "High",
   "forecast": "0.3%",
-  "previous": "0.7%"
+  "previous": "0.7%",
+  "actual": "0.3%",
+  "tone": ""
  },
  "b9f8c652755f4ea17a2da6f37f1e916f9ec9ae6f@ff-kalender": {
   "title": "PPI m/m",
@@ -1233,7 +1235,9 @@
   "date": "2026-11-13T08:30:00-05:00",
   "impact": "High",
   "forecast": "0.4%",
-  "previous": "1.3%"
+  "previous": "1.3%",
+  "actual": "0.3%",
+  "tone": "worse"
  },
  "d116b7523bd3867436158c30a55b5cc403f0f749@ff-kalender": {
   "title": "ECB President Lagarde Speaks",
