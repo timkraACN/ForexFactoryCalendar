@@ -1246,5 +1246,229 @@
   "impact": "Medium",
   "forecast": "",
   "previous": ""
+ },
+ "932694ca0c6a34100dc9a6573cad21ed7f50695a@ff-kalender": {
+  "title": "CPI m/m",
+  "country": "CAD",
+  "date": "2026-11-16T08:30:00-05:00",
+  "impact": "High",
+  "forecast": "0.3%",
+  "previous": "0.1%"
+ },
+ "8e6bceb3156da2267645ba3bcdb30364b8f10d3f@ff-kalender": {
+  "title": "Median CPI y/y",
+  "country": "CAD",
+  "date": "2026-11-16T08:30:00-05:00",
+  "impact": "High",
+  "forecast": "2.0%",
+  "previous": "1.9%"
+ },
+ "1caf612c008328f8668f12c6b1e50c34deec1b78@ff-kalender": {
+  "title": "Trimmed CPI y/y",
+  "country": "CAD",
+  "date": "2026-11-16T08:30:00-05:00",
+  "impact": "High",
+  "forecast": "1.9%",
+  "previous": "1.8%"
+ },
+ "8e190f8f432f9b1d5b470ae59d408553fcd2b9d5@ff-kalender": {
+  "title": "Common CPI y/y",
+  "country": "CAD",
+  "date": "2026-11-16T08:30:00-05:00",
+  "impact": "Medium",
+  "forecast": "2.5%",
+  "previous": "2.4%"
+ },
+ "4e8f9da81069db3af82ad48558986a2c10de70ef@ff-kalender": {
+  "title": "Fed Chairman Warsh Speaks",
+  "country": "USD",
+  "date": "2026-11-16T12:00:00-05:00",
+  "impact": "High",
+  "forecast": "",
+  "previous": ""
+ },
+ "bb29c5c9c79cd8e0f9cd0fec00c56409bd857243@ff-kalender": {
+  "title": "RBA Gov Bullock Speaks",
+  "country": "AUD",
+  "date": "2026-11-16T17:50:00-05:00",
+  "impact": "High",
+  "forecast": "",
+  "previous": ""
+ },
+ "fdce4e651db370cf4253ad7f06b4806fc50272a2@ff-kalender": {
+  "title": "Inflation Expectations q/q",
+  "country": "NZD",
+  "date": "2026-11-16T21:00:00-05:00",
+  "impact": "High",
+  "forecast": "",
+  "previous": "2.34%"
+ },
+ "bcd95896c8380c5b01a388b5b7b858a85b5b5d8a@ff-kalender": {
+  "title": "Average Earnings Index 3m/y",
+  "country": "GBP",
+  "date": "2026-11-17T02:00:00-05:00",
+  "impact": "Medium",
+  "forecast": "3.5%",
+  "previous": "3.7%"
+ },
+ "bff762f3944567e7f51c13c3346f0906d31abad8@ff-kalender": {
+  "title": "Core Retail Sales m/m",
+  "country": "USD",
+  "date": "2026-11-17T08:30:00-05:00",
+  "impact": "High",
+  "forecast": "0.4%",
+  "previous": "0.9%"
+ },
+ "e48e497d411d54f521097265c7020150e67a4c99@ff-kalender": {
+  "title": "Retail Sales m/m",
+  "country": "USD",
+  "date": "2026-11-17T08:30:00-05:00",
+  "impact": "High",
+  "forecast": "0.2%",
+  "previous": "0.8%"
+ },
+ "5951d2d854d35cf781abd3727d6be16f927e0fa6@ff-kalender": {
+  "title": "Wage Price Index q/q",
+  "country": "AUD",
+  "date": "2026-11-17T19:30:00-05:00",
+  "impact": "Medium",
+  "forecast": "0.9%",
+  "previous": "0.8%"
+ },
+ "d8d9929ae638291db8174e4d6bcaa37b2616f198@ff-kalender": {
+  "title": "CPI y/y",
+  "country": "GBP",
+  "date": "2026-11-18T02:00:00-05:00",
+  "impact": "High",
+  "forecast": "3.6%",
+  "previous": "3.5%"
+ },
+ "68fc2004cb300fbabf323237653c31509a3174ff@ff-kalender": {
+  "title": "BOE Gov Bailey Speaks",
+  "country": "GBP",
+  "date": "2026-11-18T02:30:00-05:00",
+  "impact": "High",
+  "forecast": "",
+  "previous": ""
+ },
+ "66cc3f2425caab6ba5f76e351d461c3c523f5758@ff-kalender": {
+  "title": "ECB Financial Stability Review",
+  "country": "EUR",
+  "date": "2026-11-18T04:00:00-05:00",
+  "impact": "Medium",
+  "forecast": "",
+  "previous": ""
+ },
+ "97250bfbe91b3f714b2296dd063bc486299e51e6@ff-kalender": {
+  "title": "ECB President Lagarde Speaks",
+  "country": "EUR",
+  "date": "2026-11-18T09:25:00-05:00",
+  "impact": "Medium",
+  "forecast": "",
+  "previous": ""
+ },
+ "df2fd358fa7e208a70c58d0bfbf6aaf3c6fc63e4@ff-kalender": {
+  "title": "BOE Gov Bailey Speaks",
+  "country": "GBP",
+  "date": "2026-11-18T10:00:00-05:00",
+  "impact": "High",
+  "forecast": "",
+  "previous": ""
+ },
+ "cb7cbe447bdcecc667e01b23c39886fa7d2f379b@ff-kalender": {
+  "title": "RBNZ Gov Breman Speaks",
+  "country": "NZD",
+  "date": "2026-11-18T13:00:00-05:00",
+  "impact": "Medium",
+  "forecast": "",
+  "previous": ""
+ },
+ "26dc388fc572b7dc32ab31dab5a69d442fbfc33f@ff-kalender": {
+  "title": "FOMC Meeting Minutes",
+  "country": "USD",
+  "date": "2026-11-18T14:00:00-05:00",
+  "impact": "High",
+  "forecast": "",
+  "previous": ""
+ },
+ "274ae7499c7cc91bf901316f5431490d7082aa75@ff-kalender": {
+  "title": "Employment Change",
+  "country": "AUD",
+  "date": "2026-11-18T19:30:00-05:00",
+  "impact": "High",
+  "forecast": "25.2K",
+  "previous": "-39.3K"
+ },
+ "ed3934e6dfaf1c017a53ba8f215c5eb7dc315e83@ff-kalender": {
+  "title": "Unemployment Rate",
+  "country": "AUD",
+  "date": "2026-11-18T19:30:00-05:00",
+  "impact": "High",
+  "forecast": "4.7%",
+  "previous": "4.7%"
+ },
+ "a3b49acd268cd3db1f23b668a14defd5d80adb64@ff-kalender": {
+  "title": "ECB President Lagarde Speaks",
+  "country": "EUR",
+  "date": "2026-11-19T08:30:00-05:00",
+  "impact": "Medium",
+  "forecast": "",
+  "previous": ""
+ },
+ "8ff3e445e6859909fb9486716287a141229a3efb@ff-kalender": {
+  "title": "Philly Fed Manufacturing Index",
+  "country": "USD",
+  "date": "2026-11-19T08:30:00-05:00",
+  "impact": "Medium",
+  "forecast": "19.2",
+  "previous": "20.9"
+ },
+ "b662288947ffa61d41f4139d31eeb48c86ec8548@ff-kalender": {
+  "title": "Unemployment Claims",
+  "country": "USD",
+  "date": "2026-11-19T08:30:00-05:00",
+  "impact": "Medium",
+  "forecast": "199K",
+  "previous": "200K"
+ },
+ "d57b0027d5cc2035e28aa217e74cc80e05f832dd@ff-kalender": {
+  "title": "Retail Sales m/m",
+  "country": "GBP",
+  "date": "2026-11-20T02:00:00-05:00",
+  "impact": "Medium",
+  "forecast": "0.0%",
+  "previous": "-0.4%"
+ },
+ "b75e8311c566186e5deefed12ec7211cf1cf9fb3@ff-kalender": {
+  "title": "ECB President Lagarde Speaks",
+  "country": "EUR",
+  "date": "2026-11-20T03:15:00-05:00",
+  "impact": "Medium",
+  "forecast": "",
+  "previous": ""
+ },
+ "326fa9e10e6ff43c40f7bfa7adc10729c293176a@ff-kalender": {
+  "title": "FOMC Member Waller Speaks",
+  "country": "USD",
+  "date": "2026-11-20T08:25:00-05:00",
+  "impact": "Medium",
+  "forecast": "",
+  "previous": ""
+ },
+ "ee03173acf7c5f060b245d1ba95ebef943f0dd79@ff-kalender": {
+  "title": "Revised UoM Consumer Sentiment",
+  "country": "USD",
+  "date": "2026-11-20T10:00:00-05:00",
+  "impact": "Medium",
+  "forecast": "52.1",
+  "previous": "51.0"
+ },
+ "d53f6a78c09e06ad8e3b84a95e1abbe7ed76e30f@ff-kalender": {
+  "title": "Revised UoM Inflation Expectations",
+  "country": "USD",
+  "date": "2026-11-20T10:00:00-05:00",
+  "impact": "Medium",
+  "forecast": "",
+  "previous": "4.3%"
  }
 }
