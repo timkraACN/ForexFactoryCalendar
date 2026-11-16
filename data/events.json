@@ -1253,7 +1253,9 @@
   "date": "2026-11-16T08:30:00-05:00",
   "impact": "High",
   "forecast": "0.3%",
-  "previous": "0.1%"
+  "previous": "0.1%",
+  "actual": "0.2%",
+  "tone": "worse"
  },
  "8e6bceb3156da2267645ba3bcdb30364b8f10d3f@ff-kalender": {
   "title": "Median CPI y/y",
@@ -1261,7 +1263,9 @@
   "date": "2026-11-16T08:30:00-05:00",
   "impact": "High",
   "forecast": "2.0%",
-  "previous": "1.9%"
+  "previous": "1.9%",
+  "actual": "2.0%",
+  "tone": ""
  },
  "1caf612c008328f8668f12c6b1e50c34deec1b78@ff-kalender": {
   "title": "Trimmed CPI y/y",
@@ -1269,7 +1273,9 @@
   "date": "2026-11-16T08:30:00-05:00",
   "impact": "High",
   "forecast": "1.9%",
-  "previous": "1.8%"
+  "previous": "1.8%",
+  "actual": "1.8%",
+  "tone": "worse"
  },
  "8e190f8f432f9b1d5b470ae59d408553fcd2b9d5@ff-kalender": {
   "title": "Common CPI y/y",
@@ -1277,7 +1283,9 @@
   "date": "2026-11-16T08:30:00-05:00",
   "impact": "Medium",
   "forecast": "2.5%",
-  "previous": "2.4%"
+  "previous": "2.4%",
+  "actual": "2.5%",
+  "tone": ""
  },
  "4e8f9da81069db3af82ad48558986a2c10de70ef@ff-kalender": {
   "title": "Fed Chairman Warsh Speaks",
