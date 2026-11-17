@@ -1332,7 +1332,7 @@
   "country": "USD",
   "date": "2026-11-17T08:30:00-05:00",
   "impact": "High",
-  "forecast": "0.2%",
+  "forecast": "0.1%",
   "previous": "0.8%"
  },
  "5951d2d854d35cf781abd3727d6be16f927e0fa6@ff-kalender": {
@@ -1340,7 +1340,7 @@
   "country": "AUD",
   "date": "2026-11-17T19:30:00-05:00",
   "impact": "Medium",
-  "forecast": "0.9%",
+  "forecast": "1.0%",
   "previous": "0.8%"
  },
  "d8d9929ae638291db8174e4d6bcaa37b2616f198@ff-kalender": {
@@ -1404,7 +1404,7 @@
   "country": "AUD",
   "date": "2026-11-18T19:30:00-05:00",
   "impact": "High",
-  "forecast": "25.2K",
+  "forecast": "25.5K",
   "previous": "-39.3K"
  },
  "ed3934e6dfaf1c017a53ba8f215c5eb7dc315e83@ff-kalender": {
