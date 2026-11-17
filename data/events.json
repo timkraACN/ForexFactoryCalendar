@@ -1329,7 +1329,9 @@
   "date": "2026-11-17T08:30:00-05:00",
   "impact": "High",
   "forecast": "0.4%",
-  "previous": "0.9%"
+  "previous": "0.9%",
+  "actual": "0.6%",
+  "tone": "better"
  },
  "e48e497d411d54f521097265c7020150e67a4c99@ff-kalender": {
   "title": "Retail Sales m/m",
@@ -1337,7 +1339,9 @@
   "date": "2026-11-17T08:30:00-05:00",
   "impact": "High",
   "forecast": "0.1%",
-  "previous": "0.8%"
+  "previous": "0.8%",
+  "actual": "0.2%",
+  "tone": "better"
  },
  "5951d2d854d35cf781abd3727d6be16f927e0fa6@ff-kalender": {
   "title": "Wage Price Index q/q",
