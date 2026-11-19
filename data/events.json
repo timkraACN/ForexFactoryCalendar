@@ -1417,7 +1417,9 @@
   "date": "2026-11-18T19:30:00-05:00",
   "impact": "High",
   "forecast": "25.5K",
-  "previous": "-39.3K"
+  "previous": "-39.3K",
+  "actual": "-43.5K",
+  "tone": "worse"
  },
  "ed3934e6dfaf1c017a53ba8f215c5eb7dc315e83@ff-kalender": {
   "title": "Unemployment Rate",
@@ -1425,7 +1427,9 @@
   "date": "2026-11-18T19:30:00-05:00",
   "impact": "High",
   "forecast": "4.7%",
-  "previous": "4.7%"
+  "previous": "4.7%",
+  "actual": "4.9%",
+  "tone": "worse"
  },
  "a3b49acd268cd3db1f23b668a14defd5d80adb64@ff-kalender": {
   "title": "ECB President Lagarde Speaks",
