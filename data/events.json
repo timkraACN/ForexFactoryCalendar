@@ -1445,7 +1445,9 @@
   "date": "2026-11-19T08:30:00-05:00",
   "impact": "Medium",
   "forecast": "20.6",
-  "previous": "20.9"
+  "previous": "20.9",
+  "actual": "6.3",
+  "tone": "worse"
  },
  "b662288947ffa61d41f4139d31eeb48c86ec8548@ff-kalender": {
   "title": "Unemployment Claims",
@@ -1453,7 +1455,9 @@
   "date": "2026-11-19T08:30:00-05:00",
   "impact": "Medium",
   "forecast": "198K",
-  "previous": "200K"
+  "previous": "200K",
+  "actual": "203K",
+  "tone": "worse"
  },
  "d57b0027d5cc2035e28aa217e74cc80e05f832dd@ff-kalender": {
   "title": "Retail Sales m/m",
