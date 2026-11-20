@@ -1483,7 +1483,9 @@
   "date": "2026-11-20T10:00:00-05:00",
   "impact": "Medium",
   "forecast": "51.7",
-  "previous": "51.0"
+  "previous": "51.0",
+  "actual": "51.5",
+  "tone": ""
  },
  "d53f6a78c09e06ad8e3b84a95e1abbe7ed76e30f@ff-kalender": {
   "title": "Revised UoM Inflation Expectations",
@@ -1491,12 +1493,22 @@
   "date": "2026-11-20T10:00:00-05:00",
   "impact": "Medium",
   "forecast": "",
-  "previous": "4.3%"
+  "previous": "4.3%",
+  "actual": "3.7%",
+  "tone": ""
  },
  "4a186109eda2049297e83731868d0377715f5b86@ff-kalender": {
   "title": "RBNZ Gov Breman Speaks",
   "country": "NZD",
   "date": "2026-11-16T19:00:00-05:00",
+  "impact": "Medium",
+  "forecast": "",
+  "previous": ""
+ },
+ "36753e6702b550baa482722db182fa31c63a50b3@ff-kalender": {
+  "title": "President Trump Speaks",
+  "country": "USD",
+  "date": "2026-11-20T12:00:00-05:00",
   "impact": "Medium",
   "forecast": "",
   "previous": ""
