@@ -1512,5 +1512,149 @@
   "impact": "Medium",
   "forecast": "",
   "previous": ""
+ },
+ "2d3d87dd3c556b4e67e37f93dfe9e3dac23d64f7@ff-kalender": {
+  "title": "French Flash Manufacturing PMI",
+  "country": "EUR",
+  "date": "2026-11-23T03:15:00-05:00",
+  "impact": "Medium",
+  "forecast": "49.8",
+  "previous": "49.3"
+ },
+ "0051f924bf0eec6a87d869f28218255017d0aee2@ff-kalender": {
+  "title": "French Flash Services PMI",
+  "country": "EUR",
+  "date": "2026-11-23T03:15:00-05:00",
+  "impact": "Medium",
+  "forecast": "47.4",
+  "previous": "48.4"
+ },
+ "9b8e230a75b119734de25e321fac5c7d8b331754@ff-kalender": {
+  "title": "German Flash Manufacturing PMI",
+  "country": "EUR",
+  "date": "2026-11-23T03:30:00-05:00",
+  "impact": "Medium",
+  "forecast": "54.1",
+  "previous": "54.2"
+ },
+ "5ba5dd4081edfa7c1766bbef2bf6d93e088ef3ab@ff-kalender": {
+  "title": "German Flash Services PMI",
+  "country": "EUR",
+  "date": "2026-11-23T03:30:00-05:00",
+  "impact": "Medium",
+  "forecast": "52.4",
+  "previous": "51.7"
+ },
+ "d2cbf3c07a349d45b71c0bfeceede55cf107418b@ff-kalender": {
+  "title": "Flash Manufacturing PMI",
+  "country": "GBP",
+  "date": "2026-11-23T04:30:00-05:00",
+  "impact": "Medium",
+  "forecast": "53.0",
+  "previous": "52.8"
+ },
+ "8b288f5b028f553c583e0103afe455f81a88f269@ff-kalender": {
+  "title": "Flash Services PMI",
+  "country": "GBP",
+  "date": "2026-11-23T04:30:00-05:00",
+  "impact": "Medium",
+  "forecast": "53.0",
+  "previous": "53.1"
+ },
+ "a2c737cfb8b3394ed6ce4a3e8211836944b2b08f@ff-kalender": {
+  "title": "Flash Manufacturing PMI",
+  "country": "USD",
+  "date": "2026-11-23T09:45:00-05:00",
+  "impact": "Medium",
+  "forecast": "54.5",
+  "previous": "56.0"
+ },
+ "8cadcd8cdd4f4a49dba46ab3142583d701e163c8@ff-kalender": {
+  "title": "Flash Services PMI",
+  "country": "USD",
+  "date": "2026-11-23T09:45:00-05:00",
+  "impact": "Medium",
+  "forecast": "55.6",
+  "previous": "57.9"
+ },
+ "dc7cb9a3484eb15b6439beec294c49f5bb33e645@ff-kalender": {
+  "title": "CB Consumer Confidence",
+  "country": "USD",
+  "date": "2026-11-24T10:00:00-05:00",
+  "impact": "Medium",
+  "forecast": "92.1",
+  "previous": "91.7"
+ },
+ "9140ebe8787b15bb5bf451eeec248c3797751ad0@ff-kalender": {
+  "title": "BOC Gov Macklem Speaks",
+  "country": "CAD",
+  "date": "2026-11-24T12:25:00-05:00",
+  "impact": "Medium",
+  "forecast": "",
+  "previous": ""
+ },
+ "2dfc97627d414bc574da1637b1d16cdd8ec51ab4@ff-kalender": {
+  "title": "CPI m/m",
+  "country": "AUD",
+  "date": "2026-11-24T19:30:00-05:00",
+  "impact": "High",
+  "forecast": "0.4%",
+  "previous": "0.8%"
+ },
+ "ebd9d314c2603dc632b71d485cda8376db7ffe6d@ff-kalender": {
+  "title": "CPI y/y",
+  "country": "AUD",
+  "date": "2026-11-24T19:30:00-05:00",
+  "impact": "High",
+  "forecast": "4.8%",
+  "previous": "4.3%"
+ },
+ "1ded208e7a5ade4e76aa7c050d2c0ed8be2e3084@ff-kalender": {
+  "title": "Trimmed Mean CPI m/m",
+  "country": "AUD",
+  "date": "2026-11-24T19:30:00-05:00",
+  "impact": "High",
+  "forecast": "0.3%",
+  "previous": "0.3%"
+ },
+ "42f4b7dbe4ec59400bb300163d489a9086999ef4@ff-kalender": {
+  "title": "Core PCE Price Index m/m",
+  "country": "USD",
+  "date": "2026-11-25T08:30:00-05:00",
+  "impact": "High",
+  "forecast": "0.3%",
+  "previous": "0.3%"
+ },
+ "f1c9b20e43b67dad5ed3480c865c9c3c269aafb3@ff-kalender": {
+  "title": "Prelim GDP q/q",
+  "country": "USD",
+  "date": "2026-11-25T08:30:00-05:00",
+  "impact": "High",
+  "forecast": "3.5%",
+  "previous": "3.4%"
+ },
+ "7a6e5ca420e0841b87f1c5847cde5e839c519695@ff-kalender": {
+  "title": "Prelim GDP Price Index q/q",
+  "country": "USD",
+  "date": "2026-11-25T08:30:00-05:00",
+  "impact": "Medium",
+  "forecast": "2.3%",
+  "previous": "2.3%"
+ },
+ "7aab57c8537a7ad30c07be27ac6f7250069cb7ca@ff-kalender": {
+  "title": "Unemployment Claims",
+  "country": "USD",
+  "date": "2026-11-25T08:30:00-05:00",
+  "impact": "Medium",
+  "forecast": "201K",
+  "previous": "203K"
+ },
+ "f5b26a8465b1fd334093d3a13a53fc3c992985cf@ff-kalender": {
+  "title": "Tokyo Core CPI y/y",
+  "country": "JPY",
+  "date": "2026-11-26T18:30:00-05:00",
+  "impact": "Medium",
+  "forecast": "2.9%",
+  "previous": "2.6%"
  }
 }
