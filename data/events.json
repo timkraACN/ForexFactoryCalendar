@@ -1519,7 +1519,9 @@
   "date": "2026-11-23T03:15:00-05:00",
   "impact": "Medium",
   "forecast": "49.8",
-  "previous": "49.3"
+  "previous": "49.3",
+  "actual": "47.9",
+  "tone": "worse"
  },
  "0051f924bf0eec6a87d869f28218255017d0aee2@ff-kalender": {
   "title": "French Flash Services PMI",
@@ -1527,7 +1529,9 @@
   "date": "2026-11-23T03:15:00-05:00",
   "impact": "Medium",
   "forecast": "47.4",
-  "previous": "48.4"
+  "previous": "48.4",
+  "actual": "46.6",
+  "tone": "worse"
  },
  "9b8e230a75b119734de25e321fac5c7d8b331754@ff-kalender": {
   "title": "German Flash Manufacturing PMI",
@@ -1535,7 +1539,9 @@
   "date": "2026-11-23T03:30:00-05:00",
   "impact": "Medium",
   "forecast": "54.1",
-  "previous": "54.2"
+  "previous": "54.2",
+  "actual": "55.0",
+  "tone": "better"
  },
  "5ba5dd4081edfa7c1766bbef2bf6d93e088ef3ab@ff-kalender": {
   "title": "German Flash Services PMI",
@@ -1543,7 +1549,9 @@
   "date": "2026-11-23T03:30:00-05:00",
   "impact": "Medium",
   "forecast": "52.4",
-  "previous": "51.7"
+  "previous": "51.7",
+  "actual": "54.0",
+  "tone": "better"
  },
  "d2cbf3c07a349d45b71c0bfeceede55cf107418b@ff-kalender": {
   "title": "Flash Manufacturing PMI",
@@ -1551,7 +1559,9 @@
   "date": "2026-11-23T04:30:00-05:00",
   "impact": "Medium",
   "forecast": "53.0",
-  "previous": "52.8"
+  "previous": "52.8",
+  "actual": "52.7",
+  "tone": ""
  },
  "8b288f5b028f553c583e0103afe455f81a88f269@ff-kalender": {
   "title": "Flash Services PMI",
@@ -1559,7 +1569,9 @@
   "date": "2026-11-23T04:30:00-05:00",
   "impact": "Medium",
   "forecast": "53.0",
-  "previous": "53.1"
+  "previous": "53.1",
+  "actual": "52.0",
+  "tone": "worse"
  },
  "a2c737cfb8b3394ed6ce4a3e8211836944b2b08f@ff-kalender": {
   "title": "Flash Manufacturing PMI",
