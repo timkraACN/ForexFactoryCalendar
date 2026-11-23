@@ -1579,7 +1579,9 @@
   "date": "2026-11-23T09:45:00-05:00",
   "impact": "Medium",
   "forecast": "54.5",
-  "previous": "56.0"
+  "previous": "56.0",
+  "actual": "54.5",
+  "tone": ""
  },
  "8cadcd8cdd4f4a49dba46ab3142583d701e163c8@ff-kalender": {
   "title": "Flash Services PMI",
@@ -1587,14 +1589,16 @@
   "date": "2026-11-23T09:45:00-05:00",
   "impact": "Medium",
   "forecast": "55.6",
-  "previous": "57.9"
+  "previous": "57.9",
+  "actual": "54.7",
+  "tone": "worse"
  },
  "dc7cb9a3484eb15b6439beec294c49f5bb33e645@ff-kalender": {
   "title": "CB Consumer Confidence",
   "country": "USD",
   "date": "2026-11-24T10:00:00-05:00",
   "impact": "Medium",
-  "forecast": "92.1",
+  "forecast": "92.4",
   "previous": "91.7"
  },
  "9140ebe8787b15bb5bf451eeec248c3797751ad0@ff-kalender": {
@@ -1618,7 +1622,7 @@
   "country": "AUD",
   "date": "2026-11-24T19:30:00-05:00",
   "impact": "High",
-  "forecast": "4.8%",
+  "forecast": "4.7%",
   "previous": "4.3%"
  },
  "1ded208e7a5ade4e76aa7c050d2c0ed8be2e3084@ff-kalender": {
@@ -1653,20 +1657,12 @@
   "forecast": "2.3%",
   "previous": "2.3%"
  },
- "7aab57c8537a7ad30c07be27ac6f7250069cb7ca@ff-kalender": {
-  "title": "Unemployment Claims",
-  "country": "USD",
-  "date": "2026-11-25T08:30:00-05:00",
-  "impact": "Medium",
-  "forecast": "201K",
-  "previous": "203K"
- },
  "f5b26a8465b1fd334093d3a13a53fc3c992985cf@ff-kalender": {
   "title": "Tokyo Core CPI y/y",
   "country": "JPY",
   "date": "2026-11-26T18:30:00-05:00",
   "impact": "Medium",
-  "forecast": "2.9%",
+  "forecast": "3.0%",
   "previous": "2.6%"
  }
 }
