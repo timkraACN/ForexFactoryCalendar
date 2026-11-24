@@ -1599,7 +1599,9 @@
   "date": "2026-11-24T10:00:00-05:00",
   "impact": "Medium",
   "forecast": "92.4",
-  "previous": "91.7"
+  "previous": "91.7",
+  "actual": "103.3",
+  "tone": "better"
  },
  "9140ebe8787b15bb5bf451eeec248c3797751ad0@ff-kalender": {
   "title": "BOC Gov Macklem Speaks",
