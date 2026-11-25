@@ -1617,7 +1617,9 @@
   "date": "2026-11-24T19:30:00-05:00",
   "impact": "High",
   "forecast": "0.4%",
-  "previous": "0.8%"
+  "previous": "0.8%",
+  "actual": "0.5%",
+  "tone": "better"
  },
  "ebd9d314c2603dc632b71d485cda8376db7ffe6d@ff-kalender": {
   "title": "CPI y/y",
@@ -1625,7 +1627,9 @@
   "date": "2026-11-24T19:30:00-05:00",
   "impact": "High",
   "forecast": "4.7%",
-  "previous": "4.3%"
+  "previous": "4.3%",
+  "actual": "4.9%",
+  "tone": "better"
  },
  "1ded208e7a5ade4e76aa7c050d2c0ed8be2e3084@ff-kalender": {
   "title": "Trimmed Mean CPI m/m",
@@ -1633,7 +1637,9 @@
   "date": "2026-11-24T19:30:00-05:00",
   "impact": "High",
   "forecast": "0.3%",
-  "previous": "0.3%"
+  "previous": "0.3%",
+  "actual": "0.5%",
+  "tone": "better"
  },
  "42f4b7dbe4ec59400bb300163d489a9086999ef4@ff-kalender": {
   "title": "Core PCE Price Index m/m",
